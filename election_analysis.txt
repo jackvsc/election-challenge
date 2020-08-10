@@ -1,0 +1,24 @@
+
+Election Results
+-------------------------
+There were 369,711 total votes cast in the election.
+-------------------------
+Jefferson county accounted for 10.5% of the total vote and contributed 38,855 total votes.
+Denver county accounted for 82.8% of the total vote and contributed 306,055 total votes.
+Arapahoe county accounted for 6.7% of the total vote and contributed 24,801 total votes.
+-------------------------
+Denver county had the greatest voter turnout.
+-------------------------
+There are 3 candidates in this election.
+
+Charles Casper Stockham
+Diana DeGette
+Raymon Anthony Doane
+-------------------------
+Charles Casper Stockham received 23.0% of the popular vote and 85,213 total votes.
+Diana DeGette received 73.8% of the popular vote and 272,892 total votes.
+Raymon Anthony Doane received 3.1% of the popular vote and 11,606 total votes.
+-------------------------
+The winner of the election is Diana DeGette.
+Diana DeGette got 272,892 total votes.
+Diana DeGette got 73.8% of the popular vote.
